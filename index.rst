@@ -11,7 +11,7 @@ Welcome to Sphinx's documentation!
    :caption: Contents:
 
    setup/Windowssetup.rst
-   setup/change the theme.rst
+   setup/theme.rst
    
 
 Indices and tables
